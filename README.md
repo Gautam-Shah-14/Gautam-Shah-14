@@ -70,22 +70,17 @@ Computer Science Engineering-AI
 - Jupyter Notebook
 - Google Cloud / Vertex AI
 
----
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautam-Shah-14&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-Shah-14&layout=compact)
-
----
 
 ## 🌐 Connect With Me
 
-🌍 Portfolio  
+Portfolio  
 https://gautam-shah-portfolio.vercel.app
 
-🐙 GitHub  
+GitHub  
 https://github.com/Gautam-Shah-14
+
+Linkedin
+https://www.linkedin.com/in/gautam-shah-558090246/
 
 💬 Always open to collaboration and AI projects.
 
