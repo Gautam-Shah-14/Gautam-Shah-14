@@ -73,14 +73,11 @@ Computer Science Engineering-AI
 
 ## 🌐 Connect With Me
 
-Portfolio  
-https://gautam-shah-portfolio.vercel.app
+Portfolio : https://gautam-shah-portfolio.vercel.app
 
-GitHub  
-https://github.com/Gautam-Shah-14
+GitHub : https://github.com/Gautam-Shah-14
 
-Linkedin
-https://www.linkedin.com/in/gautam-shah-558090246/
+Linkedin : https://www.linkedin.com/in/gautam-shah-558090246/
 
 💬 Always open to collaboration and AI projects.
 
