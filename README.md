@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gautam Shah
 
 🎓 Final Year B.Tech Student (Computer Science)  
-🤖 GenAI Intern @ Saint Fox Consultancy  
+🤖 GenAI Intern @Saint Fox Consultancy  
 💡 Passionate about Artificial Intelligence, Generative AI, Flutter and Software Development  
 
 🌐 Portfolio: https://gautam-shah-portfolio.vercel.app
@@ -43,11 +43,11 @@ I love learning new technologies and turning ideas into real products.
 **Bachelor of Technology (B.Tech)**  
 Computer Science Engineering-AI 
 
-📅 Duration: **2022 to 2026 (Expected soon)**
+📅 Duration: **August 2022 to May 2026 **
 
 **1-Year Diploma in Native Mobile Application Development**  
 
-📅 Duration: **2023 to 2024**
+📅 Duration: **September 2023 to June 2024**
 
 ---
 
@@ -55,6 +55,7 @@ Computer Science Engineering-AI
 
 ### Programming
 - Python
+- Flutter (dart) 
 
 ### Artificial Intelligence
 - Generative AI
