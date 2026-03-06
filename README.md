@@ -43,7 +43,7 @@ I love learning new technologies and turning ideas into real products.
 **Bachelor of Technology (B.Tech)**  
 Computer Science Engineering-AI 
 
-📅 Duration: **August 2022 to May 2026 **
+📅 Duration: **August 2022 to May 2026**
 
 **1-Year Diploma in Native Mobile Application Development**  
 
