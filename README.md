@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Gautam Shah
 
-🎓 Final Year B.Tech Student (Computer Science)  
-🤖 GenAI Intern @Saint Fox Consultancy  
-💡 Passionate about Artificial Intelligence, Generative AI, Flutter and Software Development  
+🎓 B.Tech Graduate in Computer Science & Engineering (AI)
+💻 Software Development Engineer @ Saint Fox Consultancy
+🤖 AI Engineer | Generative AI | AI Security | Flutter Developer
+🚀 Building intelligent, secure, and scalable AI applications
 
 🌐 Portfolio: https://gautam-shah-portfolio.vercel.app
 
@@ -10,78 +11,127 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Gautam Shah**, a passionate developer who enjoys building intelligent systems and solving real-world problems using technology.
+Hello! I'm **Gautam Shah**, a Software Development Engineer passionate about building intelligent applications, AI-powered systems, and scalable software solutions.
 
-I am currently working as a **Generative AI Intern at Saint Fox Consultancy**, where I work with modern AI technologies, explore large language models, and build AI-powered applications.
+Currently, I work at **Saint Fox Consultancy**, where I contribute to the development of AI Security products involving Generative AI, LLM evaluation, AI guardrails, benchmarking, backend development, and automation systems.
 
-I love learning new technologies and turning ideas into real products.
+My experience spans across Artificial Intelligence, AI Security, Backend Development, Flutter, and Generative AI. I enjoy solving real-world problems by combining modern AI technologies with practical software engineering principles.
+
+I believe in continuous learning, stepping outside my comfort zone, and building solutions that create real impact.
 
 ---
 
 ## 💼 Experience
 
-### 🤖 GenAI Intern  
-**Saint Fox Consultancy**  
-*Present*
+### 💻 Software Development Engineer
 
-- Working on **Generative AI solutions and applications**
-- Experimenting with **Large Language Models (LLMs)**
-- Building **AI-powered tools and automation workflows**
-- Exploring **prompt engineering and AI integrations**
+**Saint Fox Consultancy Pvt. Ltd.**
+*June 2026 – Present*
 
-### 🤖 ML Intern  
-**It Idol Technologies**  
-*May2024 to June 2024*
+---
 
-- Worked on **Multiple classification models**
-- Explored **CNN Model for ASL Detection**
+### 🤖 Generative AI Intern
+
+**Saint Fox Consultancy Pvt. Ltd.**
+*January 2026 – April 2026*
+
+* Worked on AI Security applications and Generative AI solutions.
+* Developed AI-powered workflows and automation systems.
+* Explored LLMs, prompt engineering, and model evaluation.
+* Built custom AI skills and automation tools.
+* Contributed to product development and research initiatives.
+
+---
+
+### 🤖 Machine Learning Intern
+
+**IT Idol Technologies**
+*May 2024 – June 2024*
+
+* Worked on machine learning classification models.
+* Explored CNN architectures for ASL detection.
+* Gained practical experience in model training and evaluation.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech)**  
-Computer Science Engineering-AI 
+### Bachelor of Technology (B.Tech)
 
-📅 Duration: **August 2022 to May 2026**
+**Computer Science & Engineering (Artificial Intelligence)**
 
-**1-Year Diploma in Native Mobile Application Development**  
-
-📅 Duration: **September 2023 to June 2024**
+Parul University
+📅 August 2022 – May 2026
+🎓 CGPA: **8.05**
 
 ---
 
-## 🧠 Skills
+### 1 Year Diploma in Native Mobile Application Development
 
-### Programming
-- Python
-- Flutter (dart) 
+Parul University
+📅 September 2023 – June 2024
+🎓 CGPA: **7.30**
+
+---
+
+## 🧠 Technical Skills
+
+### Programming Languages
+
+* Python
+* Dart
 
 ### Artificial Intelligence
-- Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Hugging Face
 
-### Web Development
-- FastAPI
+* Generative AI
+* Large Language Models (LLMs)
+* Prompt Engineering
+* AI Evaluation
+* Model Benchmarking
+* Hugging Face
+* RAG Systems
+
+### Backend Development
+
+* FastAPI
+
+### Mobile Development
+
+* Flutter
+* Firebase
 
 ### Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook
-- Google Cloud / Vertex AI
 
+* Git & GitHub
+* GitHub Actions
+* Jupyter Notebook
+* PostgreSQL
+
+
+---
+
+## 🚀 Areas of Interest
+
+* Artificial Intelligence
+* AI Security
+* Generative AI
+* LLM Applications
+* Mobile Applications
+* AI-Powered Products
+
+
+---
 
 ## 🌐 Connect With Me
 
-Portfolio : https://gautam-shah-portfolio.vercel.app
+🌐 Portfolio: https://gautam-shah-portfolio.vercel.app
 
-GitHub : https://github.com/Gautam-Shah-14
+💼 LinkedIn: https://www.linkedin.com/in/gautam-shah-558090246/
 
-Linkedin : https://www.linkedin.com/in/gautam-shah-558090246/
+💻 GitHub: https://github.com/Gautam-Shah-14
 
-💬 Always open to collaboration and AI projects.
+💬 Always open to discussions around AI, Generative AI, AI Security, software engineering, and innovative product development.
 
 ---
 
-⭐ *Building intelligent systems that solve real-world problems.*
+⭐ *Building intelligent, secure, and scalable AI solutions for real-world problems.*
